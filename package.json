@@ -1,0 +1,14 @@
+{
+  "name": "tough-cookie-filestore",
+  "version": "0.0.0",
+  "description": "file store for tough-cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tough-cookie": "~0.12.1"
+  }
+}
