@@ -1,1 +1,2 @@
-exports = require('./lib/filestore');
+var FileCookieStore = require('./lib/filestore').FileCookieStore;
+exports = FileCookieStore;
